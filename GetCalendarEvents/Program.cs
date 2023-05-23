@@ -11,7 +11,7 @@ public class Program
 
     public static void Main(string[] args)
     {
-        var userId = "admin@MngEnvMCAP743013.onmicrosoft.com";
+        var userId = "userId";
         var startDateTime = DateTime.UtcNow;
         var endDateTime = DateTime.UtcNow.AddDays(7);
 
